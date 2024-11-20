@@ -1,0 +1,3 @@
+node_modules/
+# Ignore Firebase service account credentials
+Backend/firebaseServiceAccount.json
